@@ -15,7 +15,7 @@ setup(
     install_requires=[],
     entry_points={
         'console_scripts': [
-            "closure-soy = closure:main"
+            "closure-soy = closure_soy:main"
         ]
     },
     package_data={
