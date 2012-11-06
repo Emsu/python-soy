@@ -5,7 +5,7 @@ Usage
 1. ``pip install closure-soy``
 2. ``closure-soy [<flag1> <flag2> ...] --outputPathFormat <formatString> <soyFile1> <soyFile2> ...``
 
-Consider integrating this package into webassets or another such package for automatic soy template compilation.
+Note: Consider integrating this package into webassets or another such package for automatic soy template compilation.
 
 
 -----
