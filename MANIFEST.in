@@ -1,1 +1,1 @@
-recursive-include closure *.jar
+recursive-include closure_soy *.jar
