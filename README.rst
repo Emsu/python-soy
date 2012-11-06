@@ -1,4 +1,14 @@
 -----
+Usage
+-----
+
+1. ``pip install closure-soy``
+2. ``closure-soy [<flag1> <flag2> ...] --outputPathFormat <formatString> <soyFile1> <soyFile2> ...``
+
+Consider integrating this package into webassets or another such package for automatic soy template compilation.
+
+
+-----
 About
 -----
 
@@ -7,7 +17,7 @@ a client and server side templating system for building reusable HTML and UI ele
 Closure's templating system is also commonly known as Soy templates.
 
 This is a Java-based tool. This package, based on the
-`Closure Compiler <http://pypi.python.org/pypi/closure/>` package,
+`Closure Compiler <http://pypi.python.org/pypi/closure/>`_ package,
 provides a simple way to install and use the the Closure Template compiler from 
 Python, bundling the ``soy.jar`` with the Python package.
 
