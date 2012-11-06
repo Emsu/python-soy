@@ -11,5 +11,3 @@ def get_jar_filename():
 def main():
     name = sys.argv[0]
     os.execlp("java", name, "-jar", get_jar_filename(), *sys.argv[1:])
-
-main()
