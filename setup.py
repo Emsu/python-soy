@@ -4,8 +4,8 @@ from setuptools import setup, find_packages
 
 setup(
     name="closure-soy",
-    description="Closure templates packaged for Python",
-    long_description=open('README.md').read(),
+    description="Google Closure's Soy templates packaged for Python",
+    long_description=open('README.rst').read(),
     author='Michael Su',
     author_email='mdasu1@gmail.com',
     version="20111222",
