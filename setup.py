@@ -8,7 +8,7 @@ setup(
     long_description=open('README.md').read(),
     author='Michael Su',
     author_email='mdasu1@gmail.com',
-    version="0.1",
+    version="20111222",
     url="http://pypi.python.org/pypi/closure-soy",
     license='BSD',
     packages=find_packages(),
