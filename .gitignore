@@ -4,5 +4,5 @@
 /dist/
 /build/
 
-/closure/*.jar
+/closure_soy/*.jar
 
